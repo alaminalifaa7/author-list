@@ -2,7 +2,8 @@
 
 Author List
 Example:
-TweetWorld
+
+Deployed: https://verdant-fudge-84005a.netlify.app/
 
 An application used to retrieve data form https://github.com/lukePeavey/quotable#list-authors to show a list of author user can mark as their favourite and subsequently remove from favorite list, built with React, React-Router, JavaScript, and CSS.
 
@@ -13,6 +14,7 @@ Project Screen Shot(s)
 Example:
 
 (https://ibb.co/FKvMG8n)
+
 (https://ibb.co/MMZLkns)
 
 Installation and Setup Instructions
@@ -34,6 +36,7 @@ npm start
 To Visit App:
 
 localhost:3000
+
 localhost:3000/favorite
 
 Reflection
